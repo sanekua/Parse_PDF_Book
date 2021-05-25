@@ -7,4 +7,4 @@
 
 > pip install -r requirements.txt
 
-> python main.py  
+> python pdfscraper.py  
