@@ -1,7 +1,7 @@
 # Parse_PDF_Book
 
 
-## Run project
+## Output data stored in program_output.xlsx
 
 > **git clone https://github.com/sanekua/Parse_PDF_Book.git
 
