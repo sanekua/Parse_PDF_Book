@@ -147,4 +147,3 @@ if __name__ == '__main__':
         start = i
     df = pd.DataFrame(data_to_excel)
     df.to_excel('program_output.xlsx')
-
